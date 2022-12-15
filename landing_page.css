@@ -1,5 +1,8 @@
 @import url(.https://fonts.googleapis.com/css2?family=Poppins:wght@400;700@display=swap);
-
+@font-face {
+    src: url(fonts/ZenDots-Regular.ttf);
+    font-family: ZenDots;
+}
 * {
     box-sizing: border-box;
     margin: 0;
@@ -29,7 +32,7 @@ ul {
 
 .navbar .logo {
     font-size: x-large;
-    font-weight: bold;
+    font-family: ZenDots;
     font-style: normal;
 }
 
