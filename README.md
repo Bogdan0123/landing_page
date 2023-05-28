@@ -1,2 +1,2 @@
 # landing_page
-MDK Coffee Shop
+(https://bogdan0123.github.io/landing_page/)
